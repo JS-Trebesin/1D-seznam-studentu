@@ -2,6 +2,6 @@
 
 ### Na seznamu jsou:
 
-- Zatím asi nikdo
+- Petr je nejlepší
 - Tady možná někdo bude
 - Zzz...
