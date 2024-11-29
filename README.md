@@ -2,6 +2,6 @@
 
 ### Na seznamu jsou:
 
-- Zatím asi nikdo
+- Daniel
 - Tady možná někdo bude
 - Zzz...
