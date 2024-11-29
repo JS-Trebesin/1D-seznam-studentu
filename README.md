@@ -5,7 +5,6 @@
 
 jsem nejlepsi student 
 Oli
-- Matěj Eliáš
+- eliaš
 - Tady možná někdo bude
 - Zzz...
-Yuriiii najlepši
