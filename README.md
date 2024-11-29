@@ -2,6 +2,7 @@
 
 ### Na seznamu jsou:
 
-- Skewerka
+- Zatim asi nikdo
 - Tady možná někdo bude
 - Zzz...
+-Skewerka
