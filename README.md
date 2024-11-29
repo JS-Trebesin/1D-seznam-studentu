@@ -2,6 +2,6 @@
 
 ### Na seznamu jsou:
 
-- Zatím asi nikdo
+- Péťa
 - Tady možná někdo bude
 - Zzz...
