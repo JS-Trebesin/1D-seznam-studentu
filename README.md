@@ -2,6 +2,6 @@
 
 ### Na seznamu jsou:
 
-- Zatím asi nikdo
+- Skewerka
 - Tady možná někdo bude
 - Zzz...
