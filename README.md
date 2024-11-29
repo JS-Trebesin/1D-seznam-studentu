@@ -2,6 +2,6 @@
 
 ### Na seznamu jsou:
 
-- Zatím asi nikdo
+- Barbora Čermáková
 - Tady možná někdo bude
 - Zzz...
