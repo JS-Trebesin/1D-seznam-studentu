@@ -1,7 +1,8 @@
 # Toto je seznam oblíbených studentů
 
-### Na seznamu jsou:
+### Na seznamu jsou Jedničky na třebešíně:
 
-- Zatím asi nikdo
-- Tady možná někdo bude
-- Zzz...
+- Tomino
+- Maty
+- Toby
+- 
