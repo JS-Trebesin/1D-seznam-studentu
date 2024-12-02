@@ -2,6 +2,8 @@
 
 ### Na seznamu jsou Jedničky na třebešíně:
 
+
+Milan Kunčík
 - Petr je nejlepší
 - Tomino
 - Maty
