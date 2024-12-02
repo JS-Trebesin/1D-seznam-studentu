@@ -2,6 +2,7 @@
 
 ### Na seznamu jsou Jedničky na třebešíně:
 
+-Skewerka
 - Matyáš Pešek
 Milan Kunčík
 - Petr je nejlepší
