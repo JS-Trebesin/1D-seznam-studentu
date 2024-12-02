@@ -1,7 +1,12 @@
 # Toto je seznam oblíbených studentů
 
-### Na seznamu jsou:
+### Na seznamu jsou Jedničky na třebešíně:
 
 - Petr je nejlepší
-- Tady možná někdo bude
-- Zzz...
+- Tomino
+- Maty
+- Toby
+jsem nejlepsi student 
+Oli
+- Matěj Eliáš
+Yuriiii najlepši
